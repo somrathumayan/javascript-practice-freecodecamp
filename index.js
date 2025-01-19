@@ -57,3 +57,8 @@ console.log(ourArr);
 var myNum = [1,2,3,4];
 myNum.pop();
 console.log(myNum);
+
+var number = [1,2,3,4,5]
+number.shift();
+
+console.log(number);
