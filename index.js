@@ -19,3 +19,14 @@ var a = 7;
 var b = 8;
 
 // a assigned to 7
+
+/*
+\'  single quote
+\"  double quote
+\\  backlash
+\n  newline
+\r  carriage return
+\t  tab
+\b  backspace
+\f  form feed
+*/
