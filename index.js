@@ -44,3 +44,10 @@ console.log(len);
 var arr = [10,20,50];
 arr[1] = 70;
 console.log(arr[1])
+
+// push function 
+var ourArr = ["Stimpson", "J", "Cat"];
+// ourArr.push(["Happy", "Joy"]);
+ourArr.push("Happy", "Joy");
+
+console.log(ourArr);
