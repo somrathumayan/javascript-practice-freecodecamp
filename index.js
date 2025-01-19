@@ -62,3 +62,9 @@ var number = [1,2,3,4,5]
 number.shift();
 
 console.log(number);
+
+
+var myNumber = [1,2,3,4,5]
+myNumber.unshift(6);
+
+console.log(myNumber);
