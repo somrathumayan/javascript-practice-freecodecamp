@@ -68,3 +68,8 @@ var myNumber = [1,2,3,4,5]
 myNumber.unshift(6);
 
 console.log(myNumber);
+
+function reUsable(a,b){
+    console.log(a-b);
+}
+reUsable(10, 5);
