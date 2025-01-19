@@ -30,3 +30,8 @@ var b = 8;
 \b  backspace
 \f  form feed
 */
+
+
+// concate 
+var ourStrr= "First " + "Second";
+console.log(ourStrr);
