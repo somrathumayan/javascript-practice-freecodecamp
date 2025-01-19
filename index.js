@@ -42,4 +42,5 @@ console.log(len);
 
 // array 
 var arr = [10,20,50];
+arr[1] = 70;
 console.log(arr[1])
