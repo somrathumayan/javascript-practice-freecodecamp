@@ -51,3 +51,9 @@ var ourArr = ["Stimpson", "J", "Cat"];
 ourArr.push("Happy", "Joy");
 
 console.log(ourArr);
+
+// pop()
+
+var myNum = [1,2,3,4];
+myNum.pop();
+console.log(myNum);
