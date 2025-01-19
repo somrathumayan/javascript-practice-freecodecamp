@@ -39,3 +39,7 @@ console.log(ourStrr);
 // length 
 var len = ourStrr.length;
 console.log(len);
+
+// array 
+var arr = [10,20,50];
+console.log(arr[1])
