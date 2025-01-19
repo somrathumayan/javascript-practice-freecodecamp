@@ -35,3 +35,7 @@ var b = 8;
 // concate 
 var ourStrr= "First " + "Second";
 console.log(ourStrr);
+
+// length 
+var len = ourStrr.length;
+console.log(len);
