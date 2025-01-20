@@ -100,3 +100,13 @@ console.log(shirtValue);
 delete testObj.shoes;
 console.log(testObj);
 
+// while loop
+
+var myArray = [];
+
+var i = 0;
+while(i<10){
+    myArray.push(i);
+    i++;
+}
+console.log(myArray);
