@@ -121,3 +121,8 @@ function randomNumber(){
     return Math.floor(Math.random() * 20);
 }
 console.log(randomNumber());
+
+function convertToInt(str){
+    return parseInt(str)
+}
+console.log(convertToInt("56"));
