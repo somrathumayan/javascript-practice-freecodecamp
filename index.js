@@ -116,3 +116,8 @@ for (var i= 0; i<5; i++){
     ourArray.push(i);
 }
 console.log(ourArray);
+
+function randomNumber(){
+    return Math.floor(Math.random() * 20);
+}
+console.log(randomNumber());
