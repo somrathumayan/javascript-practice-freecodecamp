@@ -96,3 +96,7 @@ var shirtValue = testObj.shirt;
 
 console.log(hatValue);
 console.log(shirtValue);
+
+delete testObj.shoes;
+console.log(testObj);
+
