@@ -126,3 +126,9 @@ function convertToInt(str){
     return parseInt(str)
 }
 console.log(convertToInt("56"));
+
+
+function ternARY(x,y){
+    return x===y ? true : false;
+}
+console.log(ternARY(1,2));
