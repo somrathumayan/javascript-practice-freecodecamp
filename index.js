@@ -132,3 +132,8 @@ function ternARY(x,y){
     return x===y ? true : false;
 }
 console.log(ternARY(1,2));
+
+// arrow function 
+var magic = () => new Date();
+
+console.log(magic());
