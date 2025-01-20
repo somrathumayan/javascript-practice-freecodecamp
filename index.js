@@ -73,3 +73,13 @@ function reUsable(a,b){
     console.log(a-b);
 }
 reUsable(10, 5);
+
+function abTest(p, q){
+    if(a<0 || b<0){
+        return undefined;
+    }
+
+    return Math.round(Math.pow(Math.sqrt(p) + Math.sqrt(q), 2));
+}
+
+console.log(abTest(2 , 2));
