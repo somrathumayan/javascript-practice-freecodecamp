@@ -146,3 +146,10 @@ const person = {
 const greeting =   `Hello!, my name is ${person.name}. and I am ${person.age} year's old`;
 
 console.log(greeting);
+
+
+import { valHundred, valFifty, testText } from './importjs.js';
+
+console.log(valHundred); // 100
+console.log(valFifty);   // 50
+console.log(testText);   // "Hello! I am Md. Humayan Kabir";
