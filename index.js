@@ -137,3 +137,12 @@ console.log(ternARY(1,2));
 var magic = () => new Date();
 
 console.log(magic());
+
+const person = {
+    name: "Md. Humayan Kabir",
+    age: 28
+};
+
+const greeting =   `Hello!, my name is ${person.name}. and I am ${person.age} year's old`;
+
+console.log(greeting);
